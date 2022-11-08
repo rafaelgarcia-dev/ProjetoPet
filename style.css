@@ -5,6 +5,10 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+body{
+    background: aquamarine;
+}
+
 header{
     margin-top: 44px;
     margin-left: 76px;
